@@ -1,7 +1,3 @@
-Berikut penjelasan lengkap untuk tiga pertanyaan Anda:
-
----
-
 # **1. Bagaimana state management dengan Cubit membantu pengelolaan transaksi dengan logika diskon dinamis?**
 
 **Cubit** (bagian dari Flutter Bloc) adalah state management yang sederhana dan reaktif. Cubit sangat membantu pada proses transaksi yang memiliki **logika diskon dinamis**, karena:
@@ -211,13 +207,3 @@ Dengan `Positioned`, UI jadi lebih bebas:
 |                                   |
 |        Nama Kategori (overlay)    |
 +-----------------------------------+
-```
-
----
-
-# Jika Anda ingin, saya bisa:
-
-✅ Buatkan **kode lengkap Cubit transaksi**
-✅ Buatkan **model item + transaksi**
-✅ Buatkan **UI kategori menu dengan Stack**
-Cukup beri tahu saya.
